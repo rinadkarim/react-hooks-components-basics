@@ -1,7 +1,11 @@
-import React from "react";
+import React from 'react';
+import ReactDOM from 'react-dom';
 
-function Article() {
-  return (
+
+
+function Article(){
+
+  return(
     <div>Dear Reader: Bjarne Stroustrup has the perfect lecture oration.</div>
   );
 }
